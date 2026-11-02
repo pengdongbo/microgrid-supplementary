@@ -1,0 +1,16 @@
+{
+  "cpu_threads": 1,
+  "evaluation_day": 0,
+  "evaluation_ev_specs": [
+    [
+      8,
+      10,
+      120
+    ],
+    [
+      12,
+      16,
+      100
+    ]
+  ]
+}
