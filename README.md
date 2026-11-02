@@ -2,6 +2,8 @@
 
 Evaluation code accompanying the study on residual safe reinforcement learning for microgrid energy management. It includes a simulation environment, one-day input data, pretrained actor weights, and reference results.
 
+Copyright @Dongbo Peng (dpeng017@ucr.edu)
+
 ## Run
 
 Tested with Python 3.10 and CPU PyTorch 2.9.1.
